@@ -10,4 +10,4 @@ console.log (firstname);
 let last_name = "Madukwu"
 let $function = 50;
 
-console.log(last_name2);
+console.log($function);
